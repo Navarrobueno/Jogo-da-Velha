@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 # Configurações do jogo
-WIDTH, HEIGHT = 300, 300
+WIDTH, HEIGHT = 350, 350
 LINE_WIDTH = 15
 BOARD_ROWS, BOARD_COLS = 3, 3
 SQUARE_SIZE = WIDTH // BOARD_COLS
